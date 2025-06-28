@@ -1,7 +1,7 @@
 # 🛍️ ecoms-customer-site
 
 > ⚠️ **Note:**  
-> The deployment of this website cannot be shared due to its confidentiality.
+> The deployment of this website along with its program cannot be shared due to its confidentiality.
 
 ---
 

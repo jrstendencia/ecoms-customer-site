@@ -1,6 +1,6 @@
 # ecoms-customer-site
 
-Note: The deployment of this website cannot be shared along with its program due to confidentiality.
+Note: The deployment of this website cannot be shared along with its program due to its confidentiality.
 
 ![Image](https://github.com/user-attachments/assets/1c7fba34-ed33-4454-9fdd-82d6d0a0f6c4)
 

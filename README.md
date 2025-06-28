@@ -1,5 +1,7 @@
 # ecoms-customer-site
 
+Note: The deployment of this website cannot be shared along with its program due to confidentiality.
+
 ![Image](https://github.com/user-attachments/assets/1c7fba34-ed33-4454-9fdd-82d6d0a0f6c4)
 
 ![Image](https://github.com/user-attachments/assets/809ce9bb-d4ea-4f82-b6c2-3719cbc49a4a)
@@ -21,3 +23,4 @@
 ![Image](https://github.com/user-attachments/assets/22f5dbd6-937e-4047-86d1-00007da50ecd)
 
 ![Image](https://github.com/user-attachments/assets/3dc1a262-f2f3-4015-bb60-1cb5a880750c)
+
